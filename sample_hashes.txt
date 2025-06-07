@@ -1,0 +1,7 @@
+# md5 hashes
+password => 5f4dcc3b5aa765d61d8327deb882cf99
+admin    => 21232f297a57a5a743894a0e4a801fc3
+hello    => 5d41402abc4b2a76b9719d911017c592
+
+# sha1
+123456   => 7c4a8d09ca3762af61e59520943dc26494f8941b
