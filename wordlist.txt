@@ -1,0 +1,10 @@
+password
+123456
+admin
+letmein
+qwerty
+abc123
+pass123
+hello
+test123
+welcome
